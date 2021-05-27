@@ -1,0 +1,44 @@
+.header 
+{
+ border-style: dashed;
+ display :flex ;
+ flex-wrap: wrap;
+ justify-content: space-evenly;
+ padding: 2cm; 
+ background-color:#85D9BF;
+ font-size: 20px;
+ margin: 1cm;
+}
+h2
+{
+border-color:black ;    
+border-style :groove; 
+background-color: #E11584;  
+text-align: center;
+border-radius: 20px;
+color: white;
+}
+
+img
+{
+ border-style:solid;   
+ border-color:#710193 ;    
+ border-radius: 20px ;
+}
+#Greeting
+{
+ font-size: 2.5cm;  
+ color: white;
+ border-style:double; 
+ border-color:#00E6F0 ;
+ border-width: 0.3cm;
+}
+body
+{
+ background-color: #010080;
+}
+.Greet
+{
+ position: sticky;
+ top : 0;
+}
